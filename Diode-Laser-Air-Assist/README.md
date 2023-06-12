@@ -16,7 +16,7 @@ For that reason there is another part without vent pads, so you can edit dimensi
 
 Printed on Mono 4K with Anycubic ECO gray resin.  
 
-![Air-Assist_FreeCAD](/img/FCad-air-assist.png)
-![Air-Assist_1](/img/IMG_20230527_153903.jpg)
-![Air-Assist_2](/img/IMG_20230527_154009.jpg)
-![Air-Assist_3](/img/IMG_20230527_154104.jpg)
+![Air-Assist_FreeCAD](img/FCad-air-assist.png)
+![Air-Assist_1](img/IMG_20230527_153903.jpg)
+![Air-Assist_2](img/IMG_20230527_154009.jpg)
+![Air-Assist_3](img/IMG_20230527_154104.jpg)
